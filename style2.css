@@ -1,0 +1,161 @@
+.container{
+    position: relative;
+    left: 2%;
+    display: flex;
+    justify-content: space-around;
+    
+
+}
+
+.box{
+    width: 1200px;
+    height: 700px;
+    background: white;
+    box-shadow: 10px 5px 10px 5px #222222;
+}
+
+body{
+    background: #323233;
+}
+
+.sec1{
+    width: 650px;
+    height: 150%;
+    background: #6f2b92;
+    transform: translateX(-380px);
+   
+}
+
+.sec2{
+    width: 700px;
+    height: 150%;
+    background: #41246d;
+    position: relative;
+    left: 20%;
+    top: -1050px;
+    z-index: 1;
+}
+
+
+.sec3{
+    width: 588px;
+    height: 150%;
+    background: #dc3382;
+    position: relative;
+    left: 76%;
+    top: -2100px;
+}
+
+h1{
+    position: relative;
+    margin-left: 30%;
+    top: 100px;
+    color: #ffffff;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+.circle, .circle1, .circle2{
+    width: 290px;
+    height: 290px;
+    position: relative;
+    left: 26%;
+    border-radius: 100%;
+    background: #632683;
+    top: 160px;
+}
+
+.shoepphoto{
+    width: 100%;
+    height: 180px;
+    position: relative;
+    top: 20px;
+    background: url(https://webstockreview.net/images/converse-clipart-sneaker-nike-7.png);
+    background-size: 100% 100%;
+}
+
+.shoepphoto1{
+    width: 100%;
+    height: 190px;
+    position: relative;
+    top: 20px;
+    background: url(https://cdn.thesolewomens.co.uk/2019/06/Nike-Air-VaporMax-Flyknit-3-Pink-Blast-AJ6910-006.png);
+    background-size: 100% 100%;
+}
+
+.shoepphoto2{
+    width: 90%;
+    height: 190px;
+    position: relative;
+    top: 20px;
+    background: url(https://clipart-library.com/images_k/shoe-transparent-background/shoe-transparent-background-12.png);
+    background-size: 100% 100%;
+}
+
+.fasi{
+    position: relative;
+    top: -15px;
+    left: 10%;
+}
+
+.plus, .plus1, .plus2{
+    width: 50px;
+    height: 50px;
+    color: white;
+    background: #e6167b;
+    border-radius: 100%;
+    position: relative;
+    left: 40%;
+    top: -30px;
+    font-size: 40px;
+}
+
+.sm{
+    position: relative;
+    left: 25%;
+    font-weight: bold;
+}
+
+.bar1{
+    width: 20px;
+    height: 3px;
+    background: #ffffff;
+}
+
+.bar2{
+    width: 20px;
+    height: 3px;
+    background: #ffffff;
+    position: relative;
+    top: 5px;
+}
+
+.bar3{
+    width: 20px;
+    height: 3px;
+    background: #ffffff;
+    position: relative;
+    top: 10px;
+}
+
+.menubar{
+    position: relative;
+    top: 20px;
+    left: 5%;
+}
+
+.plus1{
+    background: #ffa505;
+}
+
+.plus2{
+    background: #31b2d0;
+}
+
+.circle1{
+    background: #3c2065;
+}
+
+.circle2{
+    background: #ce2c78;
+}
